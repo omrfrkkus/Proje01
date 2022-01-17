@@ -1,0 +1,16 @@
+C:\Okul\Dersler\Nesne Tabanlı\Proje\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Okul\Dersler\Nesne Tabanlı\Proje\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Okul\Dersler\Nesne Tabanlı\Proje\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Okul\Dersler\Nesne Tabanlı\Proje\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Okul\Dersler\Nesne Tabanlı\Proje\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Okul\Dersler\Nesne Tabanlı\Proje\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Okul\Dersler\Nesne Tabanlı\Proje\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Okul\Dersler\Nesne Tabanlı\Proje\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Okul\Dersler\Nesne Tabanlı\Proje\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Okul\Dersler\Nesne Tabanlı\Proje\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Okul\Dersler\Nesne Tabanlı\Proje\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Okul\Dersler\Nesne Tabanlı\Proje\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Okul\Dersler\Nesne Tabanlı\Proje\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Okul\Dersler\Nesne Tabanlı\Proje\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Okul\Dersler\Nesne Tabanlı\Proje\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Okul\Dersler\Nesne Tabanlı\Proje\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
