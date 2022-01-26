@@ -1,6 +1,6 @@
 # Proje1
 # Proje adı : Oyun Merkezi
-- Projemin amacı sayı tahmin etme, 4 işlem gibi oyunlarla hem eğlendirmek hem öğretmek.
+- Projemin amacı sayı tahmin etme, 4 işlem gibi oyunlarla hem eğlendirmek hem öğretmek.  
 Ömer Faruk Kuş 200702003
 # Çalışma Mantığı
 - Oyun açıldığında bir menü karşınıza çıkıyor. Oynamak istediğiniz oyunun numarasını giriyorsunuz. Ardından :  
